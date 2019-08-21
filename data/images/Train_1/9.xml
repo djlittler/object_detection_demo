@@ -1,7 +1,7 @@
 <annotation verified="yes">
-	<folder>Resized</folder>
+	<folder>Train_1</folder>
 	<filename>9.jpg</filename>
-	<path>/Users/Study/Downloads/object_detection_demo-master/Temp/Resized/9.jpg</path>
+	<path>/Users/Study/Downloads/object_detection_demo-master/data/images/Train_1/9.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
