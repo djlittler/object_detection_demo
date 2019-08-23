@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Custom_Dataset</folder>
+	<filename>41.jpg</filename>
+	<path>/Users/Study/Documents/Masters Documents/Masters/Dissertation EEEM004/Dissertation Code/DL00294_EEEM004_Code/Custom_Dataset/41.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Person</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>118</xmin>
+			<ymin>29</ymin>
+			<xmax>289</xmax>
+			<ymax>300</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>163</xmin>
+			<ymin>35</ymin>
+			<xmax>224</xmax>
+			<ymax>70</ymax>
+		</bndbox>
+	</object>
+</annotation>
