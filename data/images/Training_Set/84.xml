@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Custom_Dataset</folder>
+	<filename>84.jpg</filename>
+	<path>/Users/Study/Documents/Masters Documents/Masters/Dissertation EEEM004/Dissertation Code/DL00294_EEEM004_Code/Custom_Dataset/84.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Authorised_3</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>88</xmin>
+			<ymin>90</ymin>
+			<xmax>201</xmax>
+			<ymax>194</ymax>
+		</bndbox>
+	</object>
+</annotation>

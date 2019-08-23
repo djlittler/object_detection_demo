@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>Custom_Dataset</folder>
+	<filename>86.jpg</filename>
+	<path>/Users/Study/Documents/Masters Documents/Masters/Dissertation EEEM004/Dissertation Code/DL00294_EEEM004_Code/Custom_Dataset/86.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Knife</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>97</xmin>
+			<ymin>62</ymin>
+			<xmax>300</xmax>
+			<ymax>136</ymax>
+		</bndbox>
+	</object>
+</annotation>
